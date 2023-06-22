@@ -1,5 +1,5 @@
 # weatherApp-react
-Weather App with  with [React](https://react.dev/) and [Axios](https://axios-http.com/).
+Weather App with [React](https://react.dev/) and [Axios](https://axios-http.com/).
 
 ## Getting Started
 
